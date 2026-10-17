@@ -1,6 +1,6 @@
-# 👋 Hi, I'm James Muchemi – Junior Frontend Developer
+# 👋 Hi, I'm James Muchemi – Software Engineer | Data Analyst | AI Enthusiast
 
-Welcome to my GitHub! I'm a passionate Front-End Developer who focuses on building responsive, user-friendly, and accessible web interfaces. I love turning ideas into reality through code and continuously learning modern technologies to refine my craft.
+Welcome to my GitHub! Software engineer with a degree in Mathematics and Computer Science, currently studying data analytics. I enjoy building clear, interactive web experiences and am especially interested in frontend development, interactive applications, and analytics dashboards.
 
 ---
 
@@ -8,20 +8,20 @@ Welcome to my GitHub! I'm a passionate Front-End Developer who focuses on buildi
 
 > My toolbox for crafting clean, interactive, and performant user experiences:
 
-- 🧠 **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- 🧠 **Languages**: JavaScript (ES6+), TypeScript, Python, SQL
 - ⚛️ **Frameworks & Libraries**: React.js, Tailwind CSS, Bootstrap
-- 📊 **Visualization**: Chart.js
+- 📊 **Visualization**: Chart.js, Power Bi, Excel
 - 🛠️ **Tools**: Git & GitHub, VS Code, Figma, Chrome DevTools
 - 📦 **Package Managers**: npm, yarn
-- 📐 **Concepts**: Responsive Design, Component-Based Architecture, REST APIs, Mobile-First Development
+- 
 
 ---
 
-## 🌱 What I'm Currently Working On
+## 🌱 What I Work On
 
-- Building a **fitness tracking web app** using React, TypeScript & Chart.js  
-- Diving deeper into **Next.js** and exploring **server-side rendering**  
-- Enhancing my **UI/UX design** skills with Figma and accessibility best practices
+- Building a **Interactive Visualizations** excel, power bi & Chart.js  
+- Diving deeper into **Artificial intelligence** and exploring **how they integrate with data to give meaningful insights**  
+- Enhancing my **Softaware & Data** skills with current technologies
 
 ---
 
@@ -44,6 +44,6 @@ I'm always open to collaboration and new opportunities. Feel free to reach out:
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “We live for the challenge. Without it, there is no joy.” – Jim
 
 Thanks for stopping by! ⭐️
